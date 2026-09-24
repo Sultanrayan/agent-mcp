@@ -2,16 +2,6 @@
 
 A multi-agent system for collaborative development using the MCP (Model Context Protocol).
 
-## Architecture
-
-```
-agent-mcp/
-├── mcp-server/     # MCP protocol server
-├── agents/         # Specialized AI agents
-├── memory/         # Shared state storage
-└── config/         # Configuration
-```
-
 ## Agents
 
 | Agent | Role | Capabilities |
